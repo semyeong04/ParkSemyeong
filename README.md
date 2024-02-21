@@ -14,9 +14,11 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
->나의 백엔드 포트폴리오 (팀 프로젝트)  
->개발 기간: 2023.12.01 ~ 2024.1.05  
+### 1. [팀프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
+> 나의 백엔드 포트폴리오
+> (사용자 맞춤 부동산 정보 제공 게시판과 채팅을 통한 실시간 정보 공유
+맞춤 대출 서비스 소개)  
+> 개발 기간: 2023.12.01 ~ 2024.1.05  
   
 >기술 스택:
 >> Java / Python /oracle database /Apache Tomcat9.0 
