@@ -14,15 +14,16 @@
 </br>
 
 ## :pushpin: Projects
-### 1.
+### 1.[미니프로젝트](https://github.com/semyeong04/PoketmonRPG)
 > 포켓몬RPG
 > Java와 DB로만 만든 미니 프로젝트
-> 개발 기간: 2023.11.1 ~ 2023.11.9  
+> 개발 기간: 2023.11.6 ~ 2023.11.9  
   
 >기술 스택:
 >> Java / oracle database
-> IDE : Eclipse / SQLDeveloper 
-> 참고
+>> IDE : Eclipse / SQLDeveloper 
+
+>[프로젝트 상세 설명](https://github.com/semyeong04/PoketmonRPG) 참고
 
 ### 2. [팀프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
 > (사용자 맞춤 부동산 정보 제공 게시판과 채팅을 통한 실시간 정보 공유
